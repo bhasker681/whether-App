@@ -1,2 +1,1 @@
-# whether-App
-whether app using api
+weather App
